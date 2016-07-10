@@ -1,0 +1,16 @@
+C:\Users\Nitesh\Desktop\ZombieShooter\bin\Debug\ReverseMap\resources.pri
+C:\Users\Nitesh\Desktop\ZombieShooter\bin\Debug\AppxManifest.xml
+C:\Users\Nitesh\Desktop\ZombieShooter\bld\Debug\ResourceHandlingTask.state
+C:\Users\Nitesh\Desktop\ZombieShooter\bld\Debug\priconfig.xml
+C:\Users\Nitesh\Desktop\ZombieShooter\bld\Debug\priconfig.xml.intermediate
+C:\Users\Nitesh\Desktop\ZombieShooter\bld\Debug\layout.resfiles
+C:\Users\Nitesh\Desktop\ZombieShooter\bld\Debug\layout.resfiles.intermediate
+C:\Users\Nitesh\Desktop\ZombieShooter\bld\Debug\resources.resfiles
+C:\Users\Nitesh\Desktop\ZombieShooter\bld\Debug\resources.resfiles.intermediate
+C:\Users\Nitesh\Desktop\ZombieShooter\bld\Debug\pri.resfiles
+C:\Users\Nitesh\Desktop\ZombieShooter\bld\Debug\pri.resfiles.intermediate
+C:\Users\Nitesh\Desktop\ZombieShooter\bld\Debug\qualifiers.txt
+C:\Users\Nitesh\Desktop\ZombieShooter\bld\Debug\qualifiers.txt.intermediate
+C:\Users\Nitesh\Desktop\ZombieShooter\bld\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Nitesh\Desktop\ZombieShooter\bld\Debug\ProjectArchitectures.txt
+C:\Users\Nitesh\Desktop\ZombieShooter\bin\Debug\Zombieshooter.build.appxrecipe

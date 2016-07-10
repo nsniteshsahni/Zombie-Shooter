@@ -1,0 +1,773 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PriInfo>
+	<ResourceMap name="3347NiteshSahni.ZombieShooter-ApocalypticWorld" version="1.0" primary="true">
+		<Qualifiers>
+			<Language>EN-US</Language>
+			<Scale>200</Scale>
+		</Qualifiers>
+		<ResourceMapSubtree name="Files">
+			<NamedResource name="c2runtime.js" uri="ms-resource://3347NiteshSahni.ZombieShooter-ApocalypticWorld/Files/c2runtime.js">
+				<Candidate type="Path">
+					<Value>c2runtime.js</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="data.json" uri="ms-resource://3347NiteshSahni.ZombieShooter-ApocalypticWorld/Files/data.json">
+				<Candidate type="Path">
+					<Value>data.json</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="icon-114.png" uri="ms-resource://3347NiteshSahni.ZombieShooter-ApocalypticWorld/Files/icon-114.png">
+				<Candidate type="Path">
+					<Value>icon-114.png</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="icon-128.png" uri="ms-resource://3347NiteshSahni.ZombieShooter-ApocalypticWorld/Files/icon-128.png">
+				<Candidate type="Path">
+					<Value>icon-128.png</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="icon-16.png" uri="ms-resource://3347NiteshSahni.ZombieShooter-ApocalypticWorld/Files/icon-16.png">
+				<Candidate type="Path">
+					<Value>icon-16.png</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="icon-256.png" uri="ms-resource://3347NiteshSahni.ZombieShooter-ApocalypticWorld/Files/icon-256.png">
+				<Candidate type="Path">
+					<Value>icon-256.png</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="icon-32.png" uri="ms-resource://3347NiteshSahni.ZombieShooter-ApocalypticWorld/Files/icon-32.png">
+				<Candidate type="Path">
+					<Value>icon-32.png</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="index.html" uri="ms-resource://3347NiteshSahni.ZombieShooter-ApocalypticWorld/Files/index.html">
+				<Candidate type="Path">
+					<Value>index.html</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="jquery-2.1.1.min.js" uri="ms-resource://3347NiteshSahni.ZombieShooter-ApocalypticWorld/Files/jquery-2.1.1.min.js">
+				<Candidate type="Path">
+					<Value>jquery-2.1.1.min.js</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="loading-logo.png" uri="ms-resource://3347NiteshSahni.ZombieShooter-ApocalypticWorld/Files/loading-logo.png">
+				<Candidate type="Path">
+					<Value>loading-logo.png</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="start.js" uri="ms-resource://3347NiteshSahni.ZombieShooter-ApocalypticWorld/Files/start.js">
+				<Candidate type="Path">
+					<Value>start.js</Value>
+				</Candidate>
+			</NamedResource>
+			<ResourceMapSubtree name="images">
+				<NamedResource name="anchorobject_1-sheet0.png" uri="ms-resource://3347NiteshSahni.ZombieShooter-ApocalypticWorld/Files/images/anchorobject_1-sheet0.png">
+					<Candidate type="Path">
+						<Value>images\anchorobject_1-sheet0.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="anchorobject_2-sheet0.png" uri="ms-resource://3347NiteshSahni.ZombieShooter-ApocalypticWorld/Files/images/anchorobject_2-sheet0.png">
+					<Candidate type="Path">
+						<Value>images\anchorobject_2-sheet0.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="anchorobject_3-sheet0.png" uri="ms-resource://3347NiteshSahni.ZombieShooter-ApocalypticWorld/Files/images/anchorobject_3-sheet0.png">
+					<Candidate type="Path">
+						<Value>images\anchorobject_3-sheet0.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="anchorobject_4-sheet0.png" uri="ms-resource://3347NiteshSahni.ZombieShooter-ApocalypticWorld/Files/images/anchorobject_4-sheet0.png">
+					<Candidate type="Path">
+						<Value>images\anchorobject_4-sheet0.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="anchor_1-sheet0.png" uri="ms-resource://3347NiteshSahni.ZombieShooter-ApocalypticWorld/Files/images/anchor_1-sheet0.png">
+					<Candidate type="Path">
+						<Value>images\anchor_1-sheet0.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="background_part_1-sheet0.png" uri="ms-resource://3347NiteshSahni.ZombieShooter-ApocalypticWorld/Files/images/background_part_1-sheet0.png">
+					<Candidate type="Path">
+						<Value>images\background_part_1-sheet0.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="background_part_2-sheet0.png" uri="ms-resource://3347NiteshSahni.ZombieShooter-ApocalypticWorld/Files/images/background_part_2-sheet0.png">
+					<Candidate type="Path">
+						<Value>images\background_part_2-sheet0.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="background_part_3-sheet0.png" uri="ms-resource://3347NiteshSahni.ZombieShooter-ApocalypticWorld/Files/images/background_part_3-sheet0.png">
+					<Candidate type="Path">
+						<Value>images\background_part_3-sheet0.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="background_part_4-sheet0.png" uri="ms-resource://3347NiteshSahni.ZombieShooter-ApocalypticWorld/Files/images/background_part_4-sheet0.png">
+					<Candidate type="Path">
+						<Value>images\background_part_4-sheet0.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="BadgeLogo.png" uri="ms-resource://3347NiteshSahni.ZombieShooter-ApocalypticWorld/Files/images/BadgeLogo.png">
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>images\BadgeLogo.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ball-sheet0.png" uri="ms-resource://3347NiteshSahni.ZombieShooter-ApocalypticWorld/Files/images/ball-sheet0.png">
+					<Candidate type="Path">
+						<Value>images\ball-sheet0.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="beam_1-sheet0.png" uri="ms-resource://3347NiteshSahni.ZombieShooter-ApocalypticWorld/Files/images/beam_1-sheet0.png">
+					<Candidate type="Path">
+						<Value>images\beam_1-sheet0.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="beam_3-sheet0.png" uri="ms-resource://3347NiteshSahni.ZombieShooter-ApocalypticWorld/Files/images/beam_3-sheet0.png">
+					<Candidate type="Path">
+						<Value>images\beam_3-sheet0.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="beam_4-sheet0.png" uri="ms-resource://3347NiteshSahni.ZombieShooter-ApocalypticWorld/Files/images/beam_4-sheet0.png">
+					<Candidate type="Path">
+						<Value>images\beam_4-sheet0.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="block.png" uri="ms-resource://3347NiteshSahni.ZombieShooter-ApocalypticWorld/Files/images/block.png">
+					<Candidate type="Path">
+						<Value>images\block.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="box-sheet0.png" uri="ms-resource://3347NiteshSahni.ZombieShooter-ApocalypticWorld/Files/images/box-sheet0.png">
+					<Candidate type="Path">
+						<Value>images\box-sheet0.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="btnfullscreen-sheet0.png" uri="ms-resource://3347NiteshSahni.ZombieShooter-ApocalypticWorld/Files/images/btnfullscreen-sheet0.png">
+					<Candidate type="Path">
+						<Value>images\btnfullscreen-sheet0.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="btnfullscreen-sheet1.png" uri="ms-resource://3347NiteshSahni.ZombieShooter-ApocalypticWorld/Files/images/btnfullscreen-sheet1.png">
+					<Candidate type="Path">
+						<Value>images\btnfullscreen-sheet1.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="btnhome-sheet0.png" uri="ms-resource://3347NiteshSahni.ZombieShooter-ApocalypticWorld/Files/images/btnhome-sheet0.png">
+					<Candidate type="Path">
+						<Value>images\btnhome-sheet0.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="btninfo-sheet0.png" uri="ms-resource://3347NiteshSahni.ZombieShooter-ApocalypticWorld/Files/images/btninfo-sheet0.png">
+					<Candidate type="Path">
+						<Value>images\btninfo-sheet0.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="btnleft-sheet0.png" uri="ms-resource://3347NiteshSahni.ZombieShooter-ApocalypticWorld/Files/images/btnleft-sheet0.png">
+					<Candidate type="Path">
+						<Value>images\btnleft-sheet0.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="btnlevels-sheet0.png" uri="ms-resource://3347NiteshSahni.ZombieShooter-ApocalypticWorld/Files/images/btnlevels-sheet0.png">
+					<Candidate type="Path">
+						<Value>images\btnlevels-sheet0.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="btnlevels-sheet1.png" uri="ms-resource://3347NiteshSahni.ZombieShooter-ApocalypticWorld/Files/images/btnlevels-sheet1.png">
+					<Candidate type="Path">
+						<Value>images\btnlevels-sheet1.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="btnmenu-sheet0.png" uri="ms-resource://3347NiteshSahni.ZombieShooter-ApocalypticWorld/Files/images/btnmenu-sheet0.png">
+					<Candidate type="Path">
+						<Value>images\btnmenu-sheet0.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="btnmenubig-sheet0.png" uri="ms-resource://3347NiteshSahni.ZombieShooter-ApocalypticWorld/Files/images/btnmenubig-sheet0.png">
+					<Candidate type="Path">
+						<Value>images\btnmenubig-sheet0.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="btnmoregames-sheet0.png" uri="ms-resource://3347NiteshSahni.ZombieShooter-ApocalypticWorld/Files/images/btnmoregames-sheet0.png">
+					<Candidate type="Path">
+						<Value>images\btnmoregames-sheet0.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="btnmusic-sheet0.png" uri="ms-resource://3347NiteshSahni.ZombieShooter-ApocalypticWorld/Files/images/btnmusic-sheet0.png">
+					<Candidate type="Path">
+						<Value>images\btnmusic-sheet0.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="btnmusic-sheet1.png" uri="ms-resource://3347NiteshSahni.ZombieShooter-ApocalypticWorld/Files/images/btnmusic-sheet1.png">
+					<Candidate type="Path">
+						<Value>images\btnmusic-sheet1.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="btnnextlevel-sheet0.png" uri="ms-resource://3347NiteshSahni.ZombieShooter-ApocalypticWorld/Files/images/btnnextlevel-sheet0.png">
+					<Candidate type="Path">
+						<Value>images\btnnextlevel-sheet0.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="btnpause-sheet0.png" uri="ms-resource://3347NiteshSahni.ZombieShooter-ApocalypticWorld/Files/images/btnpause-sheet0.png">
+					<Candidate type="Path">
+						<Value>images\btnpause-sheet0.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="btnpause-sheet1.png" uri="ms-resource://3347NiteshSahni.ZombieShooter-ApocalypticWorld/Files/images/btnpause-sheet1.png">
+					<Candidate type="Path">
+						<Value>images\btnpause-sheet1.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="btnplay-sheet0.png" uri="ms-resource://3347NiteshSahni.ZombieShooter-ApocalypticWorld/Files/images/btnplay-sheet0.png">
+					<Candidate type="Path">
+						<Value>images\btnplay-sheet0.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="btnrestart-sheet0.png" uri="ms-resource://3347NiteshSahni.ZombieShooter-ApocalypticWorld/Files/images/btnrestart-sheet0.png">
+					<Candidate type="Path">
+						<Value>images\btnrestart-sheet0.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="btnrestartbig-sheet0.png" uri="ms-resource://3347NiteshSahni.ZombieShooter-ApocalypticWorld/Files/images/btnrestartbig-sheet0.png">
+					<Candidate type="Path">
+						<Value>images\btnrestartbig-sheet0.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="btnright-sheet0.png" uri="ms-resource://3347NiteshSahni.ZombieShooter-ApocalypticWorld/Files/images/btnright-sheet0.png">
+					<Candidate type="Path">
+						<Value>images\btnright-sheet0.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="btnscreenshot-sheet0.png" uri="ms-resource://3347NiteshSahni.ZombieShooter-ApocalypticWorld/Files/images/btnscreenshot-sheet0.png">
+					<Candidate type="Path">
+						<Value>images\btnscreenshot-sheet0.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="btnsound-sheet0.png" uri="ms-resource://3347NiteshSahni.ZombieShooter-ApocalypticWorld/Files/images/btnsound-sheet0.png">
+					<Candidate type="Path">
+						<Value>images\btnsound-sheet0.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="btnsound-sheet1.png" uri="ms-resource://3347NiteshSahni.ZombieShooter-ApocalypticWorld/Files/images/btnsound-sheet1.png">
+					<Candidate type="Path">
+						<Value>images\btnsound-sheet1.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="bullet-sheet0.png" uri="ms-resource://3347NiteshSahni.ZombieShooter-ApocalypticWorld/Files/images/bullet-sheet0.png">
+					<Candidate type="Path">
+						<Value>images\bullet-sheet0.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="collision-sheet0.png" uri="ms-resource://3347NiteshSahni.ZombieShooter-ApocalypticWorld/Files/images/collision-sheet0.png">
+					<Candidate type="Path">
+						<Value>images\collision-sheet0.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="cursor-sheet0.png" uri="ms-resource://3347NiteshSahni.ZombieShooter-ApocalypticWorld/Files/images/cursor-sheet0.png">
+					<Candidate type="Path">
+						<Value>images\cursor-sheet0.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="cursorhover-sheet0.png" uri="ms-resource://3347NiteshSahni.ZombieShooter-ApocalypticWorld/Files/images/cursorhover-sheet0.png">
+					<Candidate type="Path">
+						<Value>images\cursorhover-sheet0.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="frame-sheet0.png" uri="ms-resource://3347NiteshSahni.ZombieShooter-ApocalypticWorld/Files/images/frame-sheet0.png">
+					<Candidate type="Path">
+						<Value>images\frame-sheet0.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="gameicon-sheet0.png" uri="ms-resource://3347NiteshSahni.ZombieShooter-ApocalypticWorld/Files/images/gameicon-sheet0.png">
+					<Candidate type="Path">
+						<Value>images\gameicon-sheet0.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="gamelogo-sheet0.png" uri="ms-resource://3347NiteshSahni.ZombieShooter-ApocalypticWorld/Files/images/gamelogo-sheet0.png">
+					<Candidate type="Path">
+						<Value>images\gamelogo-sheet0.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="killsfont.png" uri="ms-resource://3347NiteshSahni.ZombieShooter-ApocalypticWorld/Files/images/killsfont.png">
+					<Candidate type="Path">
+						<Value>images\killsfont.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="killsframe-sheet0.png" uri="ms-resource://3347NiteshSahni.ZombieShooter-ApocalypticWorld/Files/images/killsframe-sheet0.png">
+					<Candidate type="Path">
+						<Value>images\killsframe-sheet0.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="levelcompletedframe-sheet0.png" uri="ms-resource://3347NiteshSahni.ZombieShooter-ApocalypticWorld/Files/images/levelcompletedframe-sheet0.png">
+					<Candidate type="Path">
+						<Value>images\levelcompletedframe-sheet0.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="levelcompletedtext-sheet0.png" uri="ms-resource://3347NiteshSahni.ZombieShooter-ApocalypticWorld/Files/images/levelcompletedtext-sheet0.png">
+					<Candidate type="Path">
+						<Value>images\levelcompletedtext-sheet0.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="levelselect-sheet0.png" uri="ms-resource://3347NiteshSahni.ZombieShooter-ApocalypticWorld/Files/images/levelselect-sheet0.png">
+					<Candidate type="Path">
+						<Value>images\levelselect-sheet0.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="levelsfont.png" uri="ms-resource://3347NiteshSahni.ZombieShooter-ApocalypticWorld/Files/images/levelsfont.png">
+					<Candidate type="Path">
+						<Value>images\levelsfont.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="link_1-sheet0.png" uri="ms-resource://3347NiteshSahni.ZombieShooter-ApocalypticWorld/Files/images/link_1-sheet0.png">
+					<Candidate type="Path">
+						<Value>images\link_1-sheet0.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="loading-sheet0.png" uri="ms-resource://3347NiteshSahni.ZombieShooter-ApocalypticWorld/Files/images/loading-sheet0.png">
+					<Candidate type="Path">
+						<Value>images\loading-sheet0.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="loadingtext-sheet0.png" uri="ms-resource://3347NiteshSahni.ZombieShooter-ApocalypticWorld/Files/images/loadingtext-sheet0.png">
+					<Candidate type="Path">
+						<Value>images\loadingtext-sheet0.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="logo.png" uri="ms-resource://3347NiteshSahni.ZombieShooter-ApocalypticWorld/Files/images/logo.png">
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>images\logo.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="magazinefont.png" uri="ms-resource://3347NiteshSahni.ZombieShooter-ApocalypticWorld/Files/images/magazinefont.png">
+					<Candidate type="Path">
+						<Value>images\magazinefont.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="magazineframe-sheet0.png" uri="ms-resource://3347NiteshSahni.ZombieShooter-ApocalypticWorld/Files/images/magazineframe-sheet0.png">
+					<Candidate type="Path">
+						<Value>images\magazineframe-sheet0.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="playergun-sheet0.png" uri="ms-resource://3347NiteshSahni.ZombieShooter-ApocalypticWorld/Files/images/playergun-sheet0.png">
+					<Candidate type="Path">
+						<Value>images\playergun-sheet0.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="playerzone-sheet0.png" uri="ms-resource://3347NiteshSahni.ZombieShooter-ApocalypticWorld/Files/images/playerzone-sheet0.png">
+					<Candidate type="Path">
+						<Value>images\playerzone-sheet0.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="player_part_1-sheet0.png" uri="ms-resource://3347NiteshSahni.ZombieShooter-ApocalypticWorld/Files/images/player_part_1-sheet0.png">
+					<Candidate type="Path">
+						<Value>images\player_part_1-sheet0.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="player_part_2-sheet0.png" uri="ms-resource://3347NiteshSahni.ZombieShooter-ApocalypticWorld/Files/images/player_part_2-sheet0.png">
+					<Candidate type="Path">
+						<Value>images\player_part_2-sheet0.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="player_part_3-sheet0.png" uri="ms-resource://3347NiteshSahni.ZombieShooter-ApocalypticWorld/Files/images/player_part_3-sheet0.png">
+					<Candidate type="Path">
+						<Value>images\player_part_3-sheet0.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="player_part_4-sheet0.png" uri="ms-resource://3347NiteshSahni.ZombieShooter-ApocalypticWorld/Files/images/player_part_4-sheet0.png">
+					<Candidate type="Path">
+						<Value>images\player_part_4-sheet0.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="player_part_5-sheet0.png" uri="ms-resource://3347NiteshSahni.ZombieShooter-ApocalypticWorld/Files/images/player_part_5-sheet0.png">
+					<Candidate type="Path">
+						<Value>images\player_part_5-sheet0.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="player_part_6-sheet0.png" uri="ms-resource://3347NiteshSahni.ZombieShooter-ApocalypticWorld/Files/images/player_part_6-sheet0.png">
+					<Candidate type="Path">
+						<Value>images\player_part_6-sheet0.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="scorefont.png" uri="ms-resource://3347NiteshSahni.ZombieShooter-ApocalypticWorld/Files/images/scorefont.png">
+					<Candidate type="Path">
+						<Value>images\scorefont.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="smoke_1.png" uri="ms-resource://3347NiteshSahni.ZombieShooter-ApocalypticWorld/Files/images/smoke_1.png">
+					<Candidate type="Path">
+						<Value>images\smoke_1.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="smoke_2.png" uri="ms-resource://3347NiteshSahni.ZombieShooter-ApocalypticWorld/Files/images/smoke_2.png">
+					<Candidate type="Path">
+						<Value>images\smoke_2.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="splashscreen.png" uri="ms-resource://3347NiteshSahni.ZombieShooter-ApocalypticWorld/Files/images/splashscreen.png">
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>images\splashscreen.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Square310x310Logo.png" uri="ms-resource://3347NiteshSahni.ZombieShooter-ApocalypticWorld/Files/images/Square310x310Logo.png">
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>images\Square310x310Logo.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="square44logo.png" uri="ms-resource://3347NiteshSahni.ZombieShooter-ApocalypticWorld/Files/images/square44logo.png">
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>images\square44logo.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Square71x71Logo.png" uri="ms-resource://3347NiteshSahni.ZombieShooter-ApocalypticWorld/Files/images/Square71x71Logo.png">
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>images\Square71x71Logo.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="star_1-sheet0.png" uri="ms-resource://3347NiteshSahni.ZombieShooter-ApocalypticWorld/Files/images/star_1-sheet0.png">
+					<Candidate type="Path">
+						<Value>images\star_1-sheet0.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="star_1_base-sheet0.png" uri="ms-resource://3347NiteshSahni.ZombieShooter-ApocalypticWorld/Files/images/star_1_base-sheet0.png">
+					<Candidate type="Path">
+						<Value>images\star_1_base-sheet0.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="star_2-sheet0.png" uri="ms-resource://3347NiteshSahni.ZombieShooter-ApocalypticWorld/Files/images/star_2-sheet0.png">
+					<Candidate type="Path">
+						<Value>images\star_2-sheet0.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="star_2_base-sheet0.png" uri="ms-resource://3347NiteshSahni.ZombieShooter-ApocalypticWorld/Files/images/star_2_base-sheet0.png">
+					<Candidate type="Path">
+						<Value>images\star_2_base-sheet0.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="star_3-sheet0.png" uri="ms-resource://3347NiteshSahni.ZombieShooter-ApocalypticWorld/Files/images/star_3-sheet0.png">
+					<Candidate type="Path">
+						<Value>images\star_3-sheet0.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="star_3_base-sheet0.png" uri="ms-resource://3347NiteshSahni.ZombieShooter-ApocalypticWorld/Files/images/star_3_base-sheet0.png">
+					<Candidate type="Path">
+						<Value>images\star_3_base-sheet0.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="storelogo.png" uri="ms-resource://3347NiteshSahni.ZombieShooter-ApocalypticWorld/Files/images/storelogo.png">
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>images\storelogo.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="sun-sheet0.png" uri="ms-resource://3347NiteshSahni.ZombieShooter-ApocalypticWorld/Files/images/sun-sheet0.png">
+					<Candidate type="Path">
+						<Value>images\sun-sheet0.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="sunlight-sheet0.png" uri="ms-resource://3347NiteshSahni.ZombieShooter-ApocalypticWorld/Files/images/sunlight-sheet0.png">
+					<Candidate type="Path">
+						<Value>images\sunlight-sheet0.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="wheel-sheet0.png" uri="ms-resource://3347NiteshSahni.ZombieShooter-ApocalypticWorld/Files/images/wheel-sheet0.png">
+					<Candidate type="Path">
+						<Value>images\wheel-sheet0.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Wide310x150Logo.png" uri="ms-resource://3347NiteshSahni.ZombieShooter-ApocalypticWorld/Files/images/Wide310x150Logo.png">
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>images\Wide310x150Logo.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="zombiecollision-sheet0.png" uri="ms-resource://3347NiteshSahni.ZombieShooter-ApocalypticWorld/Files/images/zombiecollision-sheet0.png">
+					<Candidate type="Path">
+						<Value>images\zombiecollision-sheet0.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="zombie_1_part_1-sheet0.png" uri="ms-resource://3347NiteshSahni.ZombieShooter-ApocalypticWorld/Files/images/zombie_1_part_1-sheet0.png">
+					<Candidate type="Path">
+						<Value>images\zombie_1_part_1-sheet0.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="zombie_1_part_2-sheet0.png" uri="ms-resource://3347NiteshSahni.ZombieShooter-ApocalypticWorld/Files/images/zombie_1_part_2-sheet0.png">
+					<Candidate type="Path">
+						<Value>images\zombie_1_part_2-sheet0.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="zombie_1_part_3-sheet0.png" uri="ms-resource://3347NiteshSahni.ZombieShooter-ApocalypticWorld/Files/images/zombie_1_part_3-sheet0.png">
+					<Candidate type="Path">
+						<Value>images\zombie_1_part_3-sheet0.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="zombie_1_part_4-sheet0.png" uri="ms-resource://3347NiteshSahni.ZombieShooter-ApocalypticWorld/Files/images/zombie_1_part_4-sheet0.png">
+					<Candidate type="Path">
+						<Value>images\zombie_1_part_4-sheet0.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="zombie_1_part_5-sheet0.png" uri="ms-resource://3347NiteshSahni.ZombieShooter-ApocalypticWorld/Files/images/zombie_1_part_5-sheet0.png">
+					<Candidate type="Path">
+						<Value>images\zombie_1_part_5-sheet0.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="zombie_1_part_6-sheet0.png" uri="ms-resource://3347NiteshSahni.ZombieShooter-ApocalypticWorld/Files/images/zombie_1_part_6-sheet0.png">
+					<Candidate type="Path">
+						<Value>images\zombie_1_part_6-sheet0.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="zombie_2_part_1-sheet0.png" uri="ms-resource://3347NiteshSahni.ZombieShooter-ApocalypticWorld/Files/images/zombie_2_part_1-sheet0.png">
+					<Candidate type="Path">
+						<Value>images\zombie_2_part_1-sheet0.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="zombie_2_part_2-sheet0.png" uri="ms-resource://3347NiteshSahni.ZombieShooter-ApocalypticWorld/Files/images/zombie_2_part_2-sheet0.png">
+					<Candidate type="Path">
+						<Value>images\zombie_2_part_2-sheet0.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="zombie_2_part_3-sheet0.png" uri="ms-resource://3347NiteshSahni.ZombieShooter-ApocalypticWorld/Files/images/zombie_2_part_3-sheet0.png">
+					<Candidate type="Path">
+						<Value>images\zombie_2_part_3-sheet0.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="zombie_2_part_4-sheet0.png" uri="ms-resource://3347NiteshSahni.ZombieShooter-ApocalypticWorld/Files/images/zombie_2_part_4-sheet0.png">
+					<Candidate type="Path">
+						<Value>images\zombie_2_part_4-sheet0.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="zombie_2_part_5-sheet0.png" uri="ms-resource://3347NiteshSahni.ZombieShooter-ApocalypticWorld/Files/images/zombie_2_part_5-sheet0.png">
+					<Candidate type="Path">
+						<Value>images\zombie_2_part_5-sheet0.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="zombie_2_part_6-sheet0.png" uri="ms-resource://3347NiteshSahni.ZombieShooter-ApocalypticWorld/Files/images/zombie_2_part_6-sheet0.png">
+					<Candidate type="Path">
+						<Value>images\zombie_2_part_6-sheet0.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="zombie_3_part_1-sheet0.png" uri="ms-resource://3347NiteshSahni.ZombieShooter-ApocalypticWorld/Files/images/zombie_3_part_1-sheet0.png">
+					<Candidate type="Path">
+						<Value>images\zombie_3_part_1-sheet0.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="zombie_3_part_2-sheet0.png" uri="ms-resource://3347NiteshSahni.ZombieShooter-ApocalypticWorld/Files/images/zombie_3_part_2-sheet0.png">
+					<Candidate type="Path">
+						<Value>images\zombie_3_part_2-sheet0.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="zombie_3_part_3-sheet0.png" uri="ms-resource://3347NiteshSahni.ZombieShooter-ApocalypticWorld/Files/images/zombie_3_part_3-sheet0.png">
+					<Candidate type="Path">
+						<Value>images\zombie_3_part_3-sheet0.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="zombie_3_part_4-sheet0.png" uri="ms-resource://3347NiteshSahni.ZombieShooter-ApocalypticWorld/Files/images/zombie_3_part_4-sheet0.png">
+					<Candidate type="Path">
+						<Value>images\zombie_3_part_4-sheet0.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="zombie_3_part_5-sheet0.png" uri="ms-resource://3347NiteshSahni.ZombieShooter-ApocalypticWorld/Files/images/zombie_3_part_5-sheet0.png">
+					<Candidate type="Path">
+						<Value>images\zombie_3_part_5-sheet0.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="zombie_3_part_6-sheet0.png" uri="ms-resource://3347NiteshSahni.ZombieShooter-ApocalypticWorld/Files/images/zombie_3_part_6-sheet0.png">
+					<Candidate type="Path">
+						<Value>images\zombie_3_part_6-sheet0.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="zombie_4_part_1-sheet0.png" uri="ms-resource://3347NiteshSahni.ZombieShooter-ApocalypticWorld/Files/images/zombie_4_part_1-sheet0.png">
+					<Candidate type="Path">
+						<Value>images\zombie_4_part_1-sheet0.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="zombie_4_part_2-sheet0.png" uri="ms-resource://3347NiteshSahni.ZombieShooter-ApocalypticWorld/Files/images/zombie_4_part_2-sheet0.png">
+					<Candidate type="Path">
+						<Value>images\zombie_4_part_2-sheet0.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="zombie_4_part_3-sheet0.png" uri="ms-resource://3347NiteshSahni.ZombieShooter-ApocalypticWorld/Files/images/zombie_4_part_3-sheet0.png">
+					<Candidate type="Path">
+						<Value>images\zombie_4_part_3-sheet0.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="zombie_4_part_4-sheet0.png" uri="ms-resource://3347NiteshSahni.ZombieShooter-ApocalypticWorld/Files/images/zombie_4_part_4-sheet0.png">
+					<Candidate type="Path">
+						<Value>images\zombie_4_part_4-sheet0.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="zombie_4_part_5-sheet0.png" uri="ms-resource://3347NiteshSahni.ZombieShooter-ApocalypticWorld/Files/images/zombie_4_part_5-sheet0.png">
+					<Candidate type="Path">
+						<Value>images\zombie_4_part_5-sheet0.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="zombie_4_part_6-sheet0.png" uri="ms-resource://3347NiteshSahni.ZombieShooter-ApocalypticWorld/Files/images/zombie_4_part_6-sheet0.png">
+					<Candidate type="Path">
+						<Value>images\zombie_4_part_6-sheet0.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="zombie_5_part_1-sheet0.png" uri="ms-resource://3347NiteshSahni.ZombieShooter-ApocalypticWorld/Files/images/zombie_5_part_1-sheet0.png">
+					<Candidate type="Path">
+						<Value>images\zombie_5_part_1-sheet0.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="zombie_5_part_2-sheet0.png" uri="ms-resource://3347NiteshSahni.ZombieShooter-ApocalypticWorld/Files/images/zombie_5_part_2-sheet0.png">
+					<Candidate type="Path">
+						<Value>images\zombie_5_part_2-sheet0.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="zombie_5_part_3-sheet0.png" uri="ms-resource://3347NiteshSahni.ZombieShooter-ApocalypticWorld/Files/images/zombie_5_part_3-sheet0.png">
+					<Candidate type="Path">
+						<Value>images\zombie_5_part_3-sheet0.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="zombie_5_part_4-sheet0.png" uri="ms-resource://3347NiteshSahni.ZombieShooter-ApocalypticWorld/Files/images/zombie_5_part_4-sheet0.png">
+					<Candidate type="Path">
+						<Value>images\zombie_5_part_4-sheet0.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="zombie_5_part_5-sheet0.png" uri="ms-resource://3347NiteshSahni.ZombieShooter-ApocalypticWorld/Files/images/zombie_5_part_5-sheet0.png">
+					<Candidate type="Path">
+						<Value>images\zombie_5_part_5-sheet0.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="zombie_5_part_6-sheet0.png" uri="ms-resource://3347NiteshSahni.ZombieShooter-ApocalypticWorld/Files/images/zombie_5_part_6-sheet0.png">
+					<Candidate type="Path">
+						<Value>images\zombie_5_part_6-sheet0.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="zombie_5_part_7-sheet0.png" uri="ms-resource://3347NiteshSahni.ZombieShooter-ApocalypticWorld/Files/images/zombie_5_part_7-sheet0.png">
+					<Candidate type="Path">
+						<Value>images\zombie_5_part_7-sheet0.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="zombie_6_part_1-sheet0.png" uri="ms-resource://3347NiteshSahni.ZombieShooter-ApocalypticWorld/Files/images/zombie_6_part_1-sheet0.png">
+					<Candidate type="Path">
+						<Value>images\zombie_6_part_1-sheet0.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="zombie_6_part_2-sheet0.png" uri="ms-resource://3347NiteshSahni.ZombieShooter-ApocalypticWorld/Files/images/zombie_6_part_2-sheet0.png">
+					<Candidate type="Path">
+						<Value>images\zombie_6_part_2-sheet0.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="zombie_6_part_3-sheet0.png" uri="ms-resource://3347NiteshSahni.ZombieShooter-ApocalypticWorld/Files/images/zombie_6_part_3-sheet0.png">
+					<Candidate type="Path">
+						<Value>images\zombie_6_part_3-sheet0.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="zombie_6_part_4-sheet0.png" uri="ms-resource://3347NiteshSahni.ZombieShooter-ApocalypticWorld/Files/images/zombie_6_part_4-sheet0.png">
+					<Candidate type="Path">
+						<Value>images\zombie_6_part_4-sheet0.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="zombie_6_part_5-sheet0.png" uri="ms-resource://3347NiteshSahni.ZombieShooter-ApocalypticWorld/Files/images/zombie_6_part_5-sheet0.png">
+					<Candidate type="Path">
+						<Value>images\zombie_6_part_5-sheet0.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="zombie_6_part_6-sheet0.png" uri="ms-resource://3347NiteshSahni.ZombieShooter-ApocalypticWorld/Files/images/zombie_6_part_6-sheet0.png">
+					<Candidate type="Path">
+						<Value>images\zombie_6_part_6-sheet0.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="zombie_6_part_7-sheet0.png" uri="ms-resource://3347NiteshSahni.ZombieShooter-ApocalypticWorld/Files/images/zombie_6_part_7-sheet0.png">
+					<Candidate type="Path">
+						<Value>images\zombie_6_part_7-sheet0.png</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="media">
+				<NamedResource name="button.m4a" uri="ms-resource://3347NiteshSahni.ZombieShooter-ApocalypticWorld/Files/media/button.m4a">
+					<Candidate type="Path">
+						<Value>media\button.m4a</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="gamemusic.m4a" uri="ms-resource://3347NiteshSahni.ZombieShooter-ApocalypticWorld/Files/media/gamemusic.m4a">
+					<Candidate type="Path">
+						<Value>media\gamemusic.m4a</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="levelcomplete.m4a" uri="ms-resource://3347NiteshSahni.ZombieShooter-ApocalypticWorld/Files/media/levelcomplete.m4a">
+					<Candidate type="Path">
+						<Value>media\levelcomplete.m4a</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="levelrestart.m4a" uri="ms-resource://3347NiteshSahni.ZombieShooter-ApocalypticWorld/Files/media/levelrestart.m4a">
+					<Candidate type="Path">
+						<Value>media\levelrestart.m4a</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="metalhit.m4a" uri="ms-resource://3347NiteshSahni.ZombieShooter-ApocalypticWorld/Files/media/metalhit.m4a">
+					<Candidate type="Path">
+						<Value>media\metalhit.m4a</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="nobullet.m4a" uri="ms-resource://3347NiteshSahni.ZombieShooter-ApocalypticWorld/Files/media/nobullet.m4a">
+					<Candidate type="Path">
+						<Value>media\nobullet.m4a</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ricochet.m4a" uri="ms-resource://3347NiteshSahni.ZombieShooter-ApocalypticWorld/Files/media/ricochet.m4a">
+					<Candidate type="Path">
+						<Value>media\ricochet.m4a</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="shot.m4a" uri="ms-resource://3347NiteshSahni.ZombieShooter-ApocalypticWorld/Files/media/shot.m4a">
+					<Candidate type="Path">
+						<Value>media\shot.m4a</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="stars.m4a" uri="ms-resource://3347NiteshSahni.ZombieShooter-ApocalypticWorld/Files/media/stars.m4a">
+					<Candidate type="Path">
+						<Value>media\stars.m4a</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="woodhit.m4a" uri="ms-resource://3347NiteshSahni.ZombieShooter-ApocalypticWorld/Files/media/woodhit.m4a">
+					<Candidate type="Path">
+						<Value>media\woodhit.m4a</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="zombiehit.m4a" uri="ms-resource://3347NiteshSahni.ZombieShooter-ApocalypticWorld/Files/media/zombiehit.m4a">
+					<Candidate type="Path">
+						<Value>media\zombiehit.m4a</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="WinJS">
+				<ResourceMapSubtree name="css">
+					<NamedResource name="ui-dark.css" uri="ms-resource://3347NiteshSahni.ZombieShooter-ApocalypticWorld/Files/WinJS/css/ui-dark.css">
+						<Candidate type="Path">
+							<Value>WinJS\css\ui-dark.css</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="ui-light.css" uri="ms-resource://3347NiteshSahni.ZombieShooter-ApocalypticWorld/Files/WinJS/css/ui-light.css">
+						<Candidate type="Path">
+							<Value>WinJS\css\ui-light.css</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="fonts">
+					<NamedResource name="Symbols.ttf" uri="ms-resource://3347NiteshSahni.ZombieShooter-ApocalypticWorld/Files/WinJS/fonts/Symbols.ttf">
+						<Candidate type="Path">
+							<Value>WinJS\fonts\Symbols.ttf</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="js">
+					<NamedResource name="base.js" uri="ms-resource://3347NiteshSahni.ZombieShooter-ApocalypticWorld/Files/WinJS/js/base.js">
+						<Candidate type="Path">
+							<Value>WinJS\js\base.js</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="ui.js" uri="ms-resource://3347NiteshSahni.ZombieShooter-ApocalypticWorld/Files/WinJS/js/ui.js">
+						<Candidate type="Path">
+							<Value>WinJS\js\ui.js</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="ui.strings.js" uri="ms-resource://3347NiteshSahni.ZombieShooter-ApocalypticWorld/Files/WinJS/js/ui.strings.js">
+						<Candidate qualifiers="Language-EN-US" isDefault="true" type="Path">
+							<Value>WinJS\js\en-US\ui.strings.js</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+	</ResourceMap>
+</PriInfo>

@@ -1,0 +1,262 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|AnyCPU">
+      <Configuration>Debug</Configuration>
+      <Platform>AnyCPU</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Debug|ARM">
+      <Configuration>Debug</Configuration>
+      <Platform>ARM</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Debug|x64">
+      <Configuration>Debug</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Debug|x86">
+      <Configuration>Debug</Configuration>
+      <Platform>x86</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|AnyCPU">
+      <Configuration>Release</Configuration>
+      <Platform>AnyCPU</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|ARM">
+      <Configuration>Release</Configuration>
+      <Platform>ARM</Platform>
+      <UseDotNetNativeToolchain>true</UseDotNetNativeToolchain>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|x64">
+      <Configuration>Release</Configuration>
+      <Platform>x64</Platform>
+      <UseDotNetNativeToolchain>true</UseDotNetNativeToolchain>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|x86">
+      <Configuration>Release</Configuration>
+      <Platform>x86</Platform>
+      <UseDotNetNativeToolchain>true</UseDotNetNativeToolchain>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>7F97CE6C-8422-4A61-A149-F5C225B206E2</ProjectGuid>
+  </PropertyGroup>
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup Condition="'$(VisualStudioVersion)' == '' or '$(VisualStudioVersion)' &lt; '14.0'">
+    <VisualStudioVersion>14.0</VisualStudioVersion>
+  </PropertyGroup>
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\$(WMSJSProjectDirectory)\Microsoft.VisualStudio.$(WMSJSProject).Default.props" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\$(WMSJSProjectDirectory)\Microsoft.VisualStudio.$(WMSJSProject).props" />
+  <PropertyGroup>
+    <EnableDotNetNativeCompatibleProfile>true</EnableDotNetNativeCompatibleProfile>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetPlatformVersion>10.0.10240.0</TargetPlatformVersion>
+    <TargetPlatformMinVersion>10.0.10240.0</TargetPlatformMinVersion>
+    <MinimumVisualStudioVersion>$(VersionNumberMajor).$(VersionNumberMinor)</MinimumVisualStudioVersion>
+    <DefaultLanguage>en-US</DefaultLanguage>
+    <AppxAutoIncrementPackageRevision>True</AppxAutoIncrementPackageRevision>
+    <AppxBundle>Always</AppxBundle>
+    <AppxBundlePlatforms>neutral</AppxBundlePlatforms>
+    <PackageCertificateThumbprint>F9E9B9A2F597A973209A673B835B8B7A53583B63</PackageCertificateThumbprint>
+    <PackageCertificateKeyFile>Zombieshooter_StoreKey.pfx</PackageCertificateKeyFile>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppxManifest Include="package.appxmanifest">
+      <SubType>Designer</SubType>
+    </AppxManifest>
+    <Content Include="images\BadgeLogo.scale-100.png" />
+    <Content Include="images\BadgeLogo.scale-125.png" />
+    <Content Include="images\BadgeLogo.scale-150.png" />
+    <Content Include="images\BadgeLogo.scale-200.png" />
+    <Content Include="images\BadgeLogo.scale-400.png" />
+    <Content Include="images\logo.scale-100.png" />
+    <Content Include="images\logo.scale-125.png" />
+    <Content Include="images\logo.scale-150.png" />
+    <Content Include="images\logo.scale-200.png" />
+    <Content Include="images\logo.scale-400.png" />
+    <Content Include="images\splashscreen.scale-125.png" />
+    <Content Include="images\splashscreen.scale-150.png" />
+    <Content Include="images\splashscreen.scale-200.png" />
+    <Content Include="images\splashscreen.scale-400.png" />
+    <Content Include="images\Square310x310Logo.scale-100.png" />
+    <Content Include="images\Square310x310Logo.scale-125.png" />
+    <Content Include="images\Square310x310Logo.scale-150.png" />
+    <Content Include="images\Square310x310Logo.scale-200.png" />
+    <Content Include="images\square44logo.scale-100.png" />
+    <Content Include="images\square44logo.scale-125.png" />
+    <Content Include="images\square44logo.scale-150.png" />
+    <Content Include="images\square44logo.scale-200.png" />
+    <Content Include="images\splashscreen.scale-100.png" />
+    <Content Include="images\square44logo.scale-400.png" />
+    <Content Include="images\Square71x71Logo.scale-100.png" />
+    <Content Include="images\Square71x71Logo.scale-125.png" />
+    <Content Include="images\Square71x71Logo.scale-150.png" />
+    <Content Include="images\Square71x71Logo.scale-200.png" />
+    <Content Include="images\Square71x71Logo.scale-400.png" />
+    <Content Include="images\storelogo.scale-100.png" />
+    <None Include="Zombieshooter_StoreKey.pfx" />
+    <None Include="Package.StoreAssociation.xml" />
+    <Content Include="images\storelogo.scale-125.png" />
+    <Content Include="images\storelogo.scale-150.png" />
+    <Content Include="images\storelogo.scale-200.png" />
+    <Content Include="images\storelogo.scale-400.png" />
+    <Content Include="images\Wide310x150Logo.scale-100.png" />
+    <Content Include="images\Wide310x150Logo.scale-125.png" />
+    <Content Include="images\Wide310x150Logo.scale-150.png" />
+    <Content Include="images\Wide310x150Logo.scale-200.png" />
+    <Content Include="images\Wide310x150Logo.scale-400.png" />
+    <Content Include="WinJS\css\ui-dark.css" />
+    <Content Include="WinJS\css\ui-light.css" />
+    <Content Include="WinJS\fonts\Symbols.ttf" />
+    <Content Include="WinJS\js\en-US\ui.strings.js" />
+    <Content Include="WinJS\js\base.js" />
+    <Content Include="WinJS\js\ui.js" />
+    <Content Include="index.html" />
+    <Content Include="start.js" />
+    <Content Include="data.json" />
+    <Content Include="c2runtime.js" />
+    <Content Include="jquery-2.1.1.min.js" />
+    <Content Include="images\btnleft-sheet0.png" />
+    <Content Include="images\btnmenu-sheet0.png" />
+    <Content Include="images\btnpause-sheet0.png" />
+    <Content Include="images\btnpause-sheet1.png" />
+    <Content Include="images\btninfo-sheet0.png" />
+    <Content Include="images\btnmoregames-sheet0.png" />
+    <Content Include="images\btnmusic-sheet0.png" />
+    <Content Include="images\btnmusic-sheet1.png" />
+    <Content Include="images\btnplay-sheet0.png" />
+    <Content Include="images\btnrestart-sheet0.png" />
+    <Content Include="images\btnhome-sheet0.png" />
+    <Content Include="images\btnright-sheet0.png" />
+    <Content Include="images\btnsound-sheet0.png" />
+    <Content Include="images\btnsound-sheet1.png" />
+    <Content Include="images\cursor-sheet0.png" />
+    <Content Include="images\cursorhover-sheet0.png" />
+    <Content Include="images\scorefont.png" />
+    <Content Include="images\sunlight-sheet0.png" />
+    <Content Include="images\magazinefont.png" />
+    <Content Include="images\btnfullscreen-sheet0.png" />
+    <Content Include="images\btnfullscreen-sheet1.png" />
+    <Content Include="images\playerzone-sheet0.png" />
+    <Content Include="images\killsfont.png" />
+    <Content Include="images\btnscreenshot-sheet0.png" />
+    <Content Include="images\frame-sheet0.png" />
+    <Content Include="images\killsframe-sheet0.png" />
+    <Content Include="images\magazineframe-sheet0.png" />
+    <Content Include="images\btnlevels-sheet0.png" />
+    <Content Include="images\btnlevels-sheet1.png" />
+    <Content Include="images\levelsfont.png" />
+    <Content Include="images\levelselect-sheet0.png" />
+    <Content Include="images\levelcompletedframe-sheet0.png" />
+    <Content Include="images\btnmenubig-sheet0.png" />
+    <Content Include="images\btnnextlevel-sheet0.png" />
+    <Content Include="images\btnrestartbig-sheet0.png" />
+    <Content Include="images\star_1-sheet0.png" />
+    <Content Include="images\star_1_base-sheet0.png" />
+    <Content Include="images\star_2-sheet0.png" />
+    <Content Include="images\star_2_base-sheet0.png" />
+    <Content Include="images\star_3-sheet0.png" />
+    <Content Include="images\star_3_base-sheet0.png" />
+    <Content Include="images\levelcompletedtext-sheet0.png" />
+    <Content Include="images\background_part_1-sheet0.png" />
+    <Content Include="images\background_part_2-sheet0.png" />
+    <Content Include="images\background_part_3-sheet0.png" />
+    <Content Include="images\smoke_1.png" />
+    <Content Include="images\smoke_2.png" />
+    <Content Include="images\sun-sheet0.png" />
+    <Content Include="images\gamelogo-sheet0.png" />
+    <Content Include="images\loading-sheet0.png" />
+    <Content Include="images\loadingtext-sheet0.png" />
+    <Content Include="images\gameicon-sheet0.png" />
+    <Content Include="images\anchor_1-sheet0.png" />
+    <Content Include="images\anchorobject_1-sheet0.png" />
+    <Content Include="images\anchorobject_2-sheet0.png" />
+    <Content Include="images\anchorobject_3-sheet0.png" />
+    <Content Include="images\anchorobject_4-sheet0.png" />
+    <Content Include="images\ball-sheet0.png" />
+    <Content Include="images\block.png" />
+    <Content Include="images\bullet-sheet0.png" />
+    <Content Include="images\collision-sheet0.png" />
+    <Content Include="images\link_1-sheet0.png" />
+    <Content Include="images\zombie_1_part_1-sheet0.png" />
+    <Content Include="images\zombie_1_part_2-sheet0.png" />
+    <Content Include="images\zombie_1_part_3-sheet0.png" />
+    <Content Include="images\zombie_1_part_4-sheet0.png" />
+    <Content Include="images\zombie_1_part_5-sheet0.png" />
+    <Content Include="images\zombie_1_part_6-sheet0.png" />
+    <Content Include="images\zombie_2_part_1-sheet0.png" />
+    <Content Include="images\zombie_2_part_2-sheet0.png" />
+    <Content Include="images\zombie_2_part_3-sheet0.png" />
+    <Content Include="images\zombie_2_part_4-sheet0.png" />
+    <Content Include="images\zombie_2_part_5-sheet0.png" />
+    <Content Include="images\zombie_2_part_6-sheet0.png" />
+    <Content Include="images\zombie_3_part_1-sheet0.png" />
+    <Content Include="images\zombie_3_part_2-sheet0.png" />
+    <Content Include="images\zombie_3_part_3-sheet0.png" />
+    <Content Include="images\zombie_3_part_4-sheet0.png" />
+    <Content Include="images\zombie_3_part_5-sheet0.png" />
+    <Content Include="images\zombie_3_part_6-sheet0.png" />
+    <Content Include="images\zombie_4_part_1-sheet0.png" />
+    <Content Include="images\zombie_4_part_2-sheet0.png" />
+    <Content Include="images\zombie_4_part_3-sheet0.png" />
+    <Content Include="images\zombie_4_part_4-sheet0.png" />
+    <Content Include="images\zombie_4_part_5-sheet0.png" />
+    <Content Include="images\zombie_4_part_6-sheet0.png" />
+    <Content Include="images\zombie_5_part_1-sheet0.png" />
+    <Content Include="images\zombie_5_part_2-sheet0.png" />
+    <Content Include="images\zombie_5_part_3-sheet0.png" />
+    <Content Include="images\zombie_5_part_4-sheet0.png" />
+    <Content Include="images\zombie_5_part_5-sheet0.png" />
+    <Content Include="images\zombie_5_part_6-sheet0.png" />
+    <Content Include="images\zombie_5_part_7-sheet0.png" />
+    <Content Include="images\zombie_6_part_1-sheet0.png" />
+    <Content Include="images\zombie_6_part_2-sheet0.png" />
+    <Content Include="images\zombie_6_part_3-sheet0.png" />
+    <Content Include="images\zombie_6_part_4-sheet0.png" />
+    <Content Include="images\zombie_6_part_5-sheet0.png" />
+    <Content Include="images\zombie_6_part_6-sheet0.png" />
+    <Content Include="images\zombie_6_part_7-sheet0.png" />
+    <Content Include="images\beam_1-sheet0.png" />
+    <Content Include="images\beam_3-sheet0.png" />
+    <Content Include="images\zombiecollision-sheet0.png" />
+    <Content Include="images\beam_4-sheet0.png" />
+    <Content Include="images\box-sheet0.png" />
+    <Content Include="images\wheel-sheet0.png" />
+    <Content Include="images\player_part_1-sheet0.png" />
+    <Content Include="images\player_part_3-sheet0.png" />
+    <Content Include="images\player_part_6-sheet0.png" />
+    <Content Include="images\player_part_5-sheet0.png" />
+    <Content Include="images\player_part_2-sheet0.png" />
+    <Content Include="images\player_part_4-sheet0.png" />
+    <Content Include="images\playergun-sheet0.png" />
+    <Content Include="images\background_part_4-sheet0.png" />
+    <Content Include="media\button.m4a" />
+    <Content Include="media\ricochet.m4a" />
+    <Content Include="media\stars.m4a" />
+    <Content Include="media\levelcomplete.m4a" />
+    <Content Include="media\levelrestart.m4a" />
+    <Content Include="media\shot.m4a" />
+    <Content Include="media\metalhit.m4a" />
+    <Content Include="media\nobullet.m4a" />
+    <Content Include="media\woodhit.m4a" />
+    <Content Include="media\zombiehit.m4a" />
+    <Content Include="media\gamemusic.m4a" />
+    <Content Include="icon-16.png" />
+    <Content Include="icon-32.png" />
+    <Content Include="icon-114.png" />
+    <Content Include="icon-128.png" />
+    <Content Include="icon-256.png" />
+    <Content Include="loading-logo.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\$(WMSJSProjectDirectory)\Microsoft.VisualStudio.$(WMSJSProject).targets" />
+  <!-- To modify your build process, add your task inside one of the targets below then uncomment
+       that target and the DisableFastUpToDateCheck PropertyGroup. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  <PropertyGroup>
+    <DisableFastUpToDateCheck>true</DisableFastUpToDateCheck>
+  </PropertyGroup>
+  -->
+</Project>

@@ -1,0 +1,609 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>NITESHSAHNI</Machine>
+    <WindowsUser>Nitesh</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Release|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>7F97CE6C-8422-4A61-A149-F5C225B206E2</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Nitesh\Desktop\ZombieShooter\bld\Release\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Nitesh\Desktop\ZombieShooter\bin\Release\Upload\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Nitesh\Desktop\ZombieShooter\images\BadgeLogo.scale-100.png">
+      <PackagePath>images\BadgeLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nitesh\Desktop\ZombieShooter\images\BadgeLogo.scale-125.png">
+      <PackagePath>images\BadgeLogo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nitesh\Desktop\ZombieShooter\images\BadgeLogo.scale-150.png">
+      <PackagePath>images\BadgeLogo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nitesh\Desktop\ZombieShooter\images\BadgeLogo.scale-200.png">
+      <PackagePath>images\BadgeLogo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nitesh\Desktop\ZombieShooter\images\BadgeLogo.scale-400.png">
+      <PackagePath>images\BadgeLogo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nitesh\Desktop\ZombieShooter\images\logo.scale-100.png">
+      <PackagePath>images\logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nitesh\Desktop\ZombieShooter\images\logo.scale-125.png">
+      <PackagePath>images\logo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nitesh\Desktop\ZombieShooter\images\logo.scale-150.png">
+      <PackagePath>images\logo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nitesh\Desktop\ZombieShooter\images\logo.scale-200.png">
+      <PackagePath>images\logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nitesh\Desktop\ZombieShooter\images\logo.scale-400.png">
+      <PackagePath>images\logo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nitesh\Desktop\ZombieShooter\images\splashscreen.scale-125.png">
+      <PackagePath>images\splashscreen.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nitesh\Desktop\ZombieShooter\images\splashscreen.scale-150.png">
+      <PackagePath>images\splashscreen.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nitesh\Desktop\ZombieShooter\images\splashscreen.scale-200.png">
+      <PackagePath>images\splashscreen.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nitesh\Desktop\ZombieShooter\images\splashscreen.scale-400.png">
+      <PackagePath>images\splashscreen.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nitesh\Desktop\ZombieShooter\images\Square310x310Logo.scale-100.png">
+      <PackagePath>images\Square310x310Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nitesh\Desktop\ZombieShooter\images\Square310x310Logo.scale-125.png">
+      <PackagePath>images\Square310x310Logo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nitesh\Desktop\ZombieShooter\images\Square310x310Logo.scale-150.png">
+      <PackagePath>images\Square310x310Logo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nitesh\Desktop\ZombieShooter\images\Square310x310Logo.scale-200.png">
+      <PackagePath>images\Square310x310Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nitesh\Desktop\ZombieShooter\images\square44logo.scale-100.png">
+      <PackagePath>images\square44logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nitesh\Desktop\ZombieShooter\images\square44logo.scale-125.png">
+      <PackagePath>images\square44logo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nitesh\Desktop\ZombieShooter\images\square44logo.scale-150.png">
+      <PackagePath>images\square44logo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nitesh\Desktop\ZombieShooter\images\square44logo.scale-200.png">
+      <PackagePath>images\square44logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nitesh\Desktop\ZombieShooter\images\splashscreen.scale-100.png">
+      <PackagePath>images\splashscreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nitesh\Desktop\ZombieShooter\images\square44logo.scale-400.png">
+      <PackagePath>images\square44logo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nitesh\Desktop\ZombieShooter\images\Square71x71Logo.scale-100.png">
+      <PackagePath>images\Square71x71Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nitesh\Desktop\ZombieShooter\images\Square71x71Logo.scale-125.png">
+      <PackagePath>images\Square71x71Logo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nitesh\Desktop\ZombieShooter\images\Square71x71Logo.scale-150.png">
+      <PackagePath>images\Square71x71Logo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nitesh\Desktop\ZombieShooter\images\Square71x71Logo.scale-200.png">
+      <PackagePath>images\Square71x71Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nitesh\Desktop\ZombieShooter\images\Square71x71Logo.scale-400.png">
+      <PackagePath>images\Square71x71Logo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nitesh\Desktop\ZombieShooter\images\storelogo.scale-100.png">
+      <PackagePath>images\storelogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nitesh\Desktop\ZombieShooter\images\storelogo.scale-125.png">
+      <PackagePath>images\storelogo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nitesh\Desktop\ZombieShooter\images\storelogo.scale-150.png">
+      <PackagePath>images\storelogo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nitesh\Desktop\ZombieShooter\images\storelogo.scale-200.png">
+      <PackagePath>images\storelogo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nitesh\Desktop\ZombieShooter\images\storelogo.scale-400.png">
+      <PackagePath>images\storelogo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nitesh\Desktop\ZombieShooter\images\Wide310x150Logo.scale-100.png">
+      <PackagePath>images\Wide310x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nitesh\Desktop\ZombieShooter\images\Wide310x150Logo.scale-125.png">
+      <PackagePath>images\Wide310x150Logo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nitesh\Desktop\ZombieShooter\images\Wide310x150Logo.scale-150.png">
+      <PackagePath>images\Wide310x150Logo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nitesh\Desktop\ZombieShooter\images\Wide310x150Logo.scale-200.png">
+      <PackagePath>images\Wide310x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nitesh\Desktop\ZombieShooter\images\Wide310x150Logo.scale-400.png">
+      <PackagePath>images\Wide310x150Logo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nitesh\Desktop\ZombieShooter\images\btnleft-sheet0.png">
+      <PackagePath>images\btnleft-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nitesh\Desktop\ZombieShooter\images\btnmenu-sheet0.png">
+      <PackagePath>images\btnmenu-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nitesh\Desktop\ZombieShooter\images\btnpause-sheet0.png">
+      <PackagePath>images\btnpause-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nitesh\Desktop\ZombieShooter\images\btnpause-sheet1.png">
+      <PackagePath>images\btnpause-sheet1.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nitesh\Desktop\ZombieShooter\images\btninfo-sheet0.png">
+      <PackagePath>images\btninfo-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nitesh\Desktop\ZombieShooter\images\btnmoregames-sheet0.png">
+      <PackagePath>images\btnmoregames-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nitesh\Desktop\ZombieShooter\images\btnmusic-sheet0.png">
+      <PackagePath>images\btnmusic-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nitesh\Desktop\ZombieShooter\images\btnmusic-sheet1.png">
+      <PackagePath>images\btnmusic-sheet1.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nitesh\Desktop\ZombieShooter\images\btnplay-sheet0.png">
+      <PackagePath>images\btnplay-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nitesh\Desktop\ZombieShooter\images\btnrestart-sheet0.png">
+      <PackagePath>images\btnrestart-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nitesh\Desktop\ZombieShooter\images\btnhome-sheet0.png">
+      <PackagePath>images\btnhome-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nitesh\Desktop\ZombieShooter\images\btnright-sheet0.png">
+      <PackagePath>images\btnright-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nitesh\Desktop\ZombieShooter\images\btnsound-sheet0.png">
+      <PackagePath>images\btnsound-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nitesh\Desktop\ZombieShooter\images\btnsound-sheet1.png">
+      <PackagePath>images\btnsound-sheet1.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nitesh\Desktop\ZombieShooter\images\cursor-sheet0.png">
+      <PackagePath>images\cursor-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nitesh\Desktop\ZombieShooter\images\cursorhover-sheet0.png">
+      <PackagePath>images\cursorhover-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nitesh\Desktop\ZombieShooter\images\scorefont.png">
+      <PackagePath>images\scorefont.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nitesh\Desktop\ZombieShooter\images\sunlight-sheet0.png">
+      <PackagePath>images\sunlight-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nitesh\Desktop\ZombieShooter\images\magazinefont.png">
+      <PackagePath>images\magazinefont.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nitesh\Desktop\ZombieShooter\images\btnfullscreen-sheet0.png">
+      <PackagePath>images\btnfullscreen-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nitesh\Desktop\ZombieShooter\images\btnfullscreen-sheet1.png">
+      <PackagePath>images\btnfullscreen-sheet1.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nitesh\Desktop\ZombieShooter\images\playerzone-sheet0.png">
+      <PackagePath>images\playerzone-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nitesh\Desktop\ZombieShooter\images\killsfont.png">
+      <PackagePath>images\killsfont.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nitesh\Desktop\ZombieShooter\images\btnscreenshot-sheet0.png">
+      <PackagePath>images\btnscreenshot-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nitesh\Desktop\ZombieShooter\images\frame-sheet0.png">
+      <PackagePath>images\frame-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nitesh\Desktop\ZombieShooter\images\killsframe-sheet0.png">
+      <PackagePath>images\killsframe-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nitesh\Desktop\ZombieShooter\images\magazineframe-sheet0.png">
+      <PackagePath>images\magazineframe-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nitesh\Desktop\ZombieShooter\images\btnlevels-sheet0.png">
+      <PackagePath>images\btnlevels-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nitesh\Desktop\ZombieShooter\images\btnlevels-sheet1.png">
+      <PackagePath>images\btnlevels-sheet1.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nitesh\Desktop\ZombieShooter\images\levelsfont.png">
+      <PackagePath>images\levelsfont.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nitesh\Desktop\ZombieShooter\images\levelselect-sheet0.png">
+      <PackagePath>images\levelselect-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nitesh\Desktop\ZombieShooter\images\levelcompletedframe-sheet0.png">
+      <PackagePath>images\levelcompletedframe-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nitesh\Desktop\ZombieShooter\images\btnmenubig-sheet0.png">
+      <PackagePath>images\btnmenubig-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nitesh\Desktop\ZombieShooter\images\btnnextlevel-sheet0.png">
+      <PackagePath>images\btnnextlevel-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nitesh\Desktop\ZombieShooter\images\btnrestartbig-sheet0.png">
+      <PackagePath>images\btnrestartbig-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nitesh\Desktop\ZombieShooter\images\star_1-sheet0.png">
+      <PackagePath>images\star_1-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nitesh\Desktop\ZombieShooter\images\star_1_base-sheet0.png">
+      <PackagePath>images\star_1_base-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nitesh\Desktop\ZombieShooter\images\star_2-sheet0.png">
+      <PackagePath>images\star_2-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nitesh\Desktop\ZombieShooter\images\star_2_base-sheet0.png">
+      <PackagePath>images\star_2_base-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nitesh\Desktop\ZombieShooter\images\star_3-sheet0.png">
+      <PackagePath>images\star_3-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nitesh\Desktop\ZombieShooter\images\star_3_base-sheet0.png">
+      <PackagePath>images\star_3_base-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nitesh\Desktop\ZombieShooter\images\levelcompletedtext-sheet0.png">
+      <PackagePath>images\levelcompletedtext-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nitesh\Desktop\ZombieShooter\images\background_part_1-sheet0.png">
+      <PackagePath>images\background_part_1-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nitesh\Desktop\ZombieShooter\images\background_part_2-sheet0.png">
+      <PackagePath>images\background_part_2-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nitesh\Desktop\ZombieShooter\images\background_part_3-sheet0.png">
+      <PackagePath>images\background_part_3-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nitesh\Desktop\ZombieShooter\images\smoke_1.png">
+      <PackagePath>images\smoke_1.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nitesh\Desktop\ZombieShooter\images\smoke_2.png">
+      <PackagePath>images\smoke_2.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nitesh\Desktop\ZombieShooter\images\sun-sheet0.png">
+      <PackagePath>images\sun-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nitesh\Desktop\ZombieShooter\images\gamelogo-sheet0.png">
+      <PackagePath>images\gamelogo-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nitesh\Desktop\ZombieShooter\images\loading-sheet0.png">
+      <PackagePath>images\loading-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nitesh\Desktop\ZombieShooter\images\loadingtext-sheet0.png">
+      <PackagePath>images\loadingtext-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nitesh\Desktop\ZombieShooter\images\gameicon-sheet0.png">
+      <PackagePath>images\gameicon-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nitesh\Desktop\ZombieShooter\images\anchor_1-sheet0.png">
+      <PackagePath>images\anchor_1-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nitesh\Desktop\ZombieShooter\images\anchorobject_1-sheet0.png">
+      <PackagePath>images\anchorobject_1-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nitesh\Desktop\ZombieShooter\images\anchorobject_2-sheet0.png">
+      <PackagePath>images\anchorobject_2-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nitesh\Desktop\ZombieShooter\images\anchorobject_3-sheet0.png">
+      <PackagePath>images\anchorobject_3-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nitesh\Desktop\ZombieShooter\images\anchorobject_4-sheet0.png">
+      <PackagePath>images\anchorobject_4-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nitesh\Desktop\ZombieShooter\images\ball-sheet0.png">
+      <PackagePath>images\ball-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nitesh\Desktop\ZombieShooter\images\block.png">
+      <PackagePath>images\block.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nitesh\Desktop\ZombieShooter\images\bullet-sheet0.png">
+      <PackagePath>images\bullet-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nitesh\Desktop\ZombieShooter\images\collision-sheet0.png">
+      <PackagePath>images\collision-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nitesh\Desktop\ZombieShooter\images\link_1-sheet0.png">
+      <PackagePath>images\link_1-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nitesh\Desktop\ZombieShooter\images\zombie_1_part_1-sheet0.png">
+      <PackagePath>images\zombie_1_part_1-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nitesh\Desktop\ZombieShooter\images\zombie_1_part_2-sheet0.png">
+      <PackagePath>images\zombie_1_part_2-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nitesh\Desktop\ZombieShooter\images\zombie_1_part_3-sheet0.png">
+      <PackagePath>images\zombie_1_part_3-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nitesh\Desktop\ZombieShooter\images\zombie_1_part_4-sheet0.png">
+      <PackagePath>images\zombie_1_part_4-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nitesh\Desktop\ZombieShooter\images\zombie_1_part_5-sheet0.png">
+      <PackagePath>images\zombie_1_part_5-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nitesh\Desktop\ZombieShooter\images\zombie_1_part_6-sheet0.png">
+      <PackagePath>images\zombie_1_part_6-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nitesh\Desktop\ZombieShooter\images\zombie_2_part_1-sheet0.png">
+      <PackagePath>images\zombie_2_part_1-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nitesh\Desktop\ZombieShooter\images\zombie_2_part_2-sheet0.png">
+      <PackagePath>images\zombie_2_part_2-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nitesh\Desktop\ZombieShooter\images\zombie_2_part_3-sheet0.png">
+      <PackagePath>images\zombie_2_part_3-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nitesh\Desktop\ZombieShooter\images\zombie_2_part_4-sheet0.png">
+      <PackagePath>images\zombie_2_part_4-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nitesh\Desktop\ZombieShooter\images\zombie_2_part_5-sheet0.png">
+      <PackagePath>images\zombie_2_part_5-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nitesh\Desktop\ZombieShooter\images\zombie_2_part_6-sheet0.png">
+      <PackagePath>images\zombie_2_part_6-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nitesh\Desktop\ZombieShooter\images\zombie_3_part_1-sheet0.png">
+      <PackagePath>images\zombie_3_part_1-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nitesh\Desktop\ZombieShooter\images\zombie_3_part_2-sheet0.png">
+      <PackagePath>images\zombie_3_part_2-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nitesh\Desktop\ZombieShooter\images\zombie_3_part_3-sheet0.png">
+      <PackagePath>images\zombie_3_part_3-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nitesh\Desktop\ZombieShooter\images\zombie_3_part_4-sheet0.png">
+      <PackagePath>images\zombie_3_part_4-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nitesh\Desktop\ZombieShooter\images\zombie_3_part_5-sheet0.png">
+      <PackagePath>images\zombie_3_part_5-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nitesh\Desktop\ZombieShooter\images\zombie_3_part_6-sheet0.png">
+      <PackagePath>images\zombie_3_part_6-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nitesh\Desktop\ZombieShooter\images\zombie_4_part_1-sheet0.png">
+      <PackagePath>images\zombie_4_part_1-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nitesh\Desktop\ZombieShooter\images\zombie_4_part_2-sheet0.png">
+      <PackagePath>images\zombie_4_part_2-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nitesh\Desktop\ZombieShooter\images\zombie_4_part_3-sheet0.png">
+      <PackagePath>images\zombie_4_part_3-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nitesh\Desktop\ZombieShooter\images\zombie_4_part_4-sheet0.png">
+      <PackagePath>images\zombie_4_part_4-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nitesh\Desktop\ZombieShooter\images\zombie_4_part_5-sheet0.png">
+      <PackagePath>images\zombie_4_part_5-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nitesh\Desktop\ZombieShooter\images\zombie_4_part_6-sheet0.png">
+      <PackagePath>images\zombie_4_part_6-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nitesh\Desktop\ZombieShooter\images\zombie_5_part_1-sheet0.png">
+      <PackagePath>images\zombie_5_part_1-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nitesh\Desktop\ZombieShooter\images\zombie_5_part_2-sheet0.png">
+      <PackagePath>images\zombie_5_part_2-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nitesh\Desktop\ZombieShooter\images\zombie_5_part_3-sheet0.png">
+      <PackagePath>images\zombie_5_part_3-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nitesh\Desktop\ZombieShooter\images\zombie_5_part_4-sheet0.png">
+      <PackagePath>images\zombie_5_part_4-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nitesh\Desktop\ZombieShooter\images\zombie_5_part_5-sheet0.png">
+      <PackagePath>images\zombie_5_part_5-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nitesh\Desktop\ZombieShooter\images\zombie_5_part_6-sheet0.png">
+      <PackagePath>images\zombie_5_part_6-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nitesh\Desktop\ZombieShooter\images\zombie_5_part_7-sheet0.png">
+      <PackagePath>images\zombie_5_part_7-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nitesh\Desktop\ZombieShooter\images\zombie_6_part_1-sheet0.png">
+      <PackagePath>images\zombie_6_part_1-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nitesh\Desktop\ZombieShooter\images\zombie_6_part_2-sheet0.png">
+      <PackagePath>images\zombie_6_part_2-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nitesh\Desktop\ZombieShooter\images\zombie_6_part_3-sheet0.png">
+      <PackagePath>images\zombie_6_part_3-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nitesh\Desktop\ZombieShooter\images\zombie_6_part_4-sheet0.png">
+      <PackagePath>images\zombie_6_part_4-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nitesh\Desktop\ZombieShooter\images\zombie_6_part_5-sheet0.png">
+      <PackagePath>images\zombie_6_part_5-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nitesh\Desktop\ZombieShooter\images\zombie_6_part_6-sheet0.png">
+      <PackagePath>images\zombie_6_part_6-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nitesh\Desktop\ZombieShooter\images\zombie_6_part_7-sheet0.png">
+      <PackagePath>images\zombie_6_part_7-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nitesh\Desktop\ZombieShooter\images\beam_1-sheet0.png">
+      <PackagePath>images\beam_1-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nitesh\Desktop\ZombieShooter\images\beam_3-sheet0.png">
+      <PackagePath>images\beam_3-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nitesh\Desktop\ZombieShooter\images\zombiecollision-sheet0.png">
+      <PackagePath>images\zombiecollision-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nitesh\Desktop\ZombieShooter\images\beam_4-sheet0.png">
+      <PackagePath>images\beam_4-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nitesh\Desktop\ZombieShooter\images\box-sheet0.png">
+      <PackagePath>images\box-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nitesh\Desktop\ZombieShooter\images\wheel-sheet0.png">
+      <PackagePath>images\wheel-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nitesh\Desktop\ZombieShooter\images\player_part_1-sheet0.png">
+      <PackagePath>images\player_part_1-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nitesh\Desktop\ZombieShooter\images\player_part_3-sheet0.png">
+      <PackagePath>images\player_part_3-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nitesh\Desktop\ZombieShooter\images\player_part_6-sheet0.png">
+      <PackagePath>images\player_part_6-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nitesh\Desktop\ZombieShooter\images\player_part_5-sheet0.png">
+      <PackagePath>images\player_part_5-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nitesh\Desktop\ZombieShooter\images\player_part_2-sheet0.png">
+      <PackagePath>images\player_part_2-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nitesh\Desktop\ZombieShooter\images\player_part_4-sheet0.png">
+      <PackagePath>images\player_part_4-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nitesh\Desktop\ZombieShooter\images\playergun-sheet0.png">
+      <PackagePath>images\playergun-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nitesh\Desktop\ZombieShooter\images\background_part_4-sheet0.png">
+      <PackagePath>images\background_part_4-sheet0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nitesh\Desktop\ZombieShooter\icon-16.png">
+      <PackagePath>icon-16.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nitesh\Desktop\ZombieShooter\icon-32.png">
+      <PackagePath>icon-32.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nitesh\Desktop\ZombieShooter\icon-114.png">
+      <PackagePath>icon-114.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nitesh\Desktop\ZombieShooter\icon-128.png">
+      <PackagePath>icon-128.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nitesh\Desktop\ZombieShooter\icon-256.png">
+      <PackagePath>icon-256.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nitesh\Desktop\ZombieShooter\loading-logo.png">
+      <PackagePath>loading-logo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nitesh\Desktop\ZombieShooter\WinJS\css\ui-dark.css">
+      <PackagePath>WinJS\css\ui-dark.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nitesh\Desktop\ZombieShooter\WinJS\css\ui-light.css">
+      <PackagePath>WinJS\css\ui-light.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nitesh\Desktop\ZombieShooter\WinJS\fonts\Symbols.ttf">
+      <PackagePath>WinJS\fonts\Symbols.ttf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nitesh\Desktop\ZombieShooter\WinJS\js\en-US\ui.strings.js">
+      <PackagePath>WinJS\js\en-US\ui.strings.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nitesh\Desktop\ZombieShooter\WinJS\js\base.js">
+      <PackagePath>WinJS\js\base.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nitesh\Desktop\ZombieShooter\WinJS\js\ui.js">
+      <PackagePath>WinJS\js\ui.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nitesh\Desktop\ZombieShooter\start.js">
+      <PackagePath>start.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nitesh\Desktop\ZombieShooter\c2runtime.js">
+      <PackagePath>c2runtime.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nitesh\Desktop\ZombieShooter\jquery-2.1.1.min.js">
+      <PackagePath>jquery-2.1.1.min.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nitesh\Desktop\ZombieShooter\index.html">
+      <PackagePath>index.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nitesh\Desktop\ZombieShooter\data.json">
+      <PackagePath>data.json</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nitesh\Desktop\ZombieShooter\media\button.m4a">
+      <PackagePath>media\button.m4a</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nitesh\Desktop\ZombieShooter\media\ricochet.m4a">
+      <PackagePath>media\ricochet.m4a</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nitesh\Desktop\ZombieShooter\media\stars.m4a">
+      <PackagePath>media\stars.m4a</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nitesh\Desktop\ZombieShooter\media\levelcomplete.m4a">
+      <PackagePath>media\levelcomplete.m4a</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nitesh\Desktop\ZombieShooter\media\levelrestart.m4a">
+      <PackagePath>media\levelrestart.m4a</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nitesh\Desktop\ZombieShooter\media\shot.m4a">
+      <PackagePath>media\shot.m4a</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nitesh\Desktop\ZombieShooter\media\metalhit.m4a">
+      <PackagePath>media\metalhit.m4a</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nitesh\Desktop\ZombieShooter\media\nobullet.m4a">
+      <PackagePath>media\nobullet.m4a</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nitesh\Desktop\ZombieShooter\media\woodhit.m4a">
+      <PackagePath>media\woodhit.m4a</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nitesh\Desktop\ZombieShooter\media\zombiehit.m4a">
+      <PackagePath>media\zombiehit.m4a</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nitesh\Desktop\ZombieShooter\media\gamemusic.m4a">
+      <PackagePath>media\gamemusic.m4a</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nitesh\Desktop\ZombieShooter\bin\Release\Upload\ReverseMap\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

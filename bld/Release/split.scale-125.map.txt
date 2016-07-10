@@ -1,0 +1,14 @@
+﻿[ResourceMetadata]
+"ResourceId"			"split.scale-125"
+"ResourceDimensions"		"scale-125"
+
+[Files]
+"C:\Users\Nitesh\Desktop\ZombieShooter\bld\Release\split.scale-125.pri"			"resources.pri"
+"C:\Users\Nitesh\Desktop\ZombieShooter\bld\Release\PackageLayout\images\Wide310x150Logo.scale-125.png"			"images\Wide310x150Logo.scale-125.png"
+"C:\Users\Nitesh\Desktop\ZombieShooter\bld\Release\PackageLayout\images\storelogo.scale-125.png"			"images\storelogo.scale-125.png"
+"C:\Users\Nitesh\Desktop\ZombieShooter\bld\Release\PackageLayout\images\Square71x71Logo.scale-125.png"			"images\Square71x71Logo.scale-125.png"
+"C:\Users\Nitesh\Desktop\ZombieShooter\bld\Release\PackageLayout\images\square44logo.scale-125.png"			"images\square44logo.scale-125.png"
+"C:\Users\Nitesh\Desktop\ZombieShooter\bld\Release\PackageLayout\images\Square310x310Logo.scale-125.png"			"images\Square310x310Logo.scale-125.png"
+"C:\Users\Nitesh\Desktop\ZombieShooter\bld\Release\PackageLayout\images\splashscreen.scale-125.png"			"images\splashscreen.scale-125.png"
+"C:\Users\Nitesh\Desktop\ZombieShooter\bld\Release\PackageLayout\images\logo.scale-125.png"			"images\logo.scale-125.png"
+"C:\Users\Nitesh\Desktop\ZombieShooter\bld\Release\PackageLayout\images\BadgeLogo.scale-125.png"			"images\BadgeLogo.scale-125.png"
