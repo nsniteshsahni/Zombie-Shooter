@@ -1,5 +1,5 @@
 # Zombie-Shooter
-A 2D third person shooter UWP (Universal Windows Platform) game developed in JS.Test your aiming skills,check out it @ Windows Store
+A 2D third person shooter UWP (Universal Windows Platform) game developed in JS.Test your aiming skills,check out it @ Windows Store https://www.microsoft.com/store/apps/9NBLGGH4SNM0
 
 # License
 The MIT License (MIT)
